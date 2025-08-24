@@ -1,0 +1,79 @@
+# Commandes Blouza Djerba
+# Ce fichier est automatiquement mis à jour avec chaque nouvelle commande 
+
+Date: 2025-08-24T03:54:04.000Z
+Nom: wassim mars
+Téléphone: +21694389254
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Homme
+Taille: L
+Quantité: 2
+Notes: Aucune
+
+---
+
+Date: 2025-08-24T03:58:29.000Z
+Nom: amyne
+Téléphone: 24664514
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Femme
+Taille: XXL
+Quantité: 5
+Notes: Aucune
+
+---
+
+Date: 2025-08-24T03:02:06.243Z
+Nom: enfant
+Téléphone: +21694389254
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Enfant
+Taille: 10-12 ans
+Quantité: 4
+Notes: Aucune
+
+---
+
+Date: 2025-08-24T19:55:32.130Z
+Nom: wassim mars
+Téléphone: +21694389254
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Homme
+Taille: L
+Quantité: 5
+Notes: Aucune
+
+---
+
+Date: 2025-08-24T19:58:50.066Z
+Nom: wassim mars
+Téléphone: +21694389254
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Homme
+Taille: L
+Quantité: 1
+Notes: Aucune
+
+---
+
+Date: 2025-08-24T20:58:52.701Z
+Nom: wassim mars
+Téléphone: +21694389254
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Homme
+Taille: M
+Quantité: 1
+Notes: Aucune
+
+---
+
+Date: 2025-08-24T21:43:25.057Z
+Nom: wassim mars
+Téléphone: +21694389254
+Adresse: houmt souk, Djerba, medenine, tunisia
+Catégorie: Blouza Homme
+Taille: M
+Quantité: 1
+Notes: Aucune
+
+---
